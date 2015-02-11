@@ -1,0 +1,125 @@
+Nomen
+class nom gen     dat     akk     nom     gen     dat     akk    Stem
+m1    0   [e]s(1) [e]     0       e       e       en      e      Tag
+m1a   0   ses     [se]    0       se      se      sen     se     Bus
+m2    0   [e]s(1) [e]     0       "e      "e      "en     "e     Bach
+m3    0   [e]s(1) [e]     0       "er     "er     "ern    "er    Wald
+m3a   0   [e]s(1) [e]     0       er      er      ern     er     Leib
+m4    0   s       0       0       0       0       n(2)    0      Deckel
+m5    0   s       0       0       "       "       "n(2)   "      Vater
+m6    0   s       0       0       s       s       s       s      Gummi
+m7    [r] n       n       n       n       n       n       n      Bekannte
+m7a   0   ns      n       n       n       n       n       n      Gedanke
+m8    0   en      en      en      en      en      en      en     Mensch
+m9    0   [e]s(1) [e]     0       en      en      en      en     Staat
+m10   0   s       0       0       n       n       n       n      Konsul
+m11   us  us      us      us      en      en      en      en     Organism
+f12   0   0       0       0       e       e       en      e      Drangsal
+f13   0   0       0       0       se      se      sen     se     Kenntnis
+f14   0   0       0       0       "e      "e      "en     "e     Nacht
+f14a  0   0       0       0       "       "       "n      "      Mutter
+f15   0   0       0       0       s       s       s       s      Kamera
+f15a  a   a       a       a       en      en      en      en     Firm
+f16   0   0       0       0       n       n       n       n      Blume
+f16a  0   0       0       0       n       n       n       n      Energie
+f17   0   0       0       0       en      en      en      en     Zahl
+f18   0   0       0       0       nen     nen     nen     nen    Lehrerin
+f19   0   n       n       0       n       n       n       n      Angestellte
+n20   0   [e]s(1) [e]     0       e       e       en      e      Schaf
+n20a  0   es      [e]     0       "e      "e      "en     "e     Floﬂ
+n21   0   [e]s(1) [e]     0       er      er      ern     er     Feld
+n22   0   [e]s(1) [e]     0       "er     "er     "ern    "er    Dorf
+n23   0   s       0       0       0       0       n(2)    0      Fenster
+n23a  0   s       0       0       "       "       "n(2)   "      Kloster
+n24   0   s       0       0       s       s       s       s      Auto
+n25   0   [e]s(1) [e]     0       en      en      en      en     Bett
+n26   [s] n       n       0       n       n       n       n      Junge
+n27   0   ses     [se]    0       se      se      sen     se     Begr‰bnis
+n28   um  ums     um      um      en      en      en      en     Dat
+n28a  a   as      a       a       en      en      en      en     Dram
+n29   um  ums     um      um      a       a       a       a      Maxim
+n30   0   s       0       0       n       n       n       n      Auge
+n31   0   [e]s    0       0       ien     ien     ien     ien    Privileg
+
+1  concerns the [e]-information in "gen sg", "masc/neut" and means:
+a) when the basic form ends by "s / ﬂ / sch / x / chs / z / tz" the vowel "e" is obligatory.
+b) when "ﬂ" comes after a short vowel in the basic form, it is written as "ss" in all forms of the paradigm (old orthography).
+2  concerns the suffix in "dat pl", "masc/neut" and means: if the basic form ends by "n" there is no second "n" as "dat pl" suffix.
+
+regul‰re schwache Verben
+class 0   1   2    3   4   5   6   7     8     9     10  11   12
+v1    en  e   st   t   en  t   en  e     est   e     en  et   en
+v2    en  e   est  et  en  et  en  e     est   e     en  et   en
+v3    en  e   t    t   en  t   en  e     est   e     en  et   en
+v4    eln le  elst elt eln elt eln le    lest  le    eln let  eln
+v5    ern ere erst ert ern ert ern [e]re erest [e]re ern eret ern
+
+class 13   14     15   16    17    18    19   20     21   22    23    24
+v1    te   test   te   ten   tet   ten   te   test   te   ten   tet   ten
+v2    ete  etest  ete  eten  etet  eten  ete  etest  ete  eten  etet  eten
+v3    ete  etest  ete  eten  etet  eten  ete  etest  ete  eten  etet  eten
+v4    elte eltest elte elten eltet elten elte eltest elte elten eltet elten
+v5    erte ertest erte erten ertet erten erte ertest erte erten ertet erten
+
+class 25    26  27  28  29   30  Stem
+v1    [e]   en  t   en  end  t   glaub
+v2    [e]   en  et  en  end  et  red, atm, segn
+v3    [e]   en  et  en  end  t   reis, schwitz, t‰usch
+v4    le    eln elt eln elnd elt l‰ch
+v5    [e]re ern ert ert ernd ert zitt
+
+0 Infinitiv
+1 Indikativ Pr‰sens Singular 1
+2 Indikativ Pr‰sens Singular 2
+3 Indikativ Pr‰sens Singular 3
+4 Indikativ Pr‰sens Plural 1
+5 Indikativ Pr‰sens Plural 2
+6 Indikativ Pr‰sens Plural 3
+7 Konjunktiv Pr‰sens Singular 1
+8 Konjunktiv Pr‰sens Singular 2
+9 Konjunktiv Pr‰sens Singular 3
+10 Konjunktiv Pr‰sens Plural 1
+11 Konjunktiv Pr‰sens Plural 2
+12 Konjunktiv Pr‰sens Plural 3
+13 Indikativ Pr‰teritum Singular 1
+14 Indikativ Pr‰teritum Singular 2
+15 Indikativ Pr‰teritum Singular 3
+16 Indikativ Pr‰teritum Plural 1
+17 Indikativ Pr‰teritum Plural 2
+18 Indikativ Pr‰teritum Plural 3
+19 Konjunktiv Pr‰teritum Singular 1
+20 Konjunktiv Pr‰teritum Singular 2
+21 Konjunktiv Pr‰teritum Singular 3
+22 Konjunktiv Pr‰teritum Plural 1
+23 Konjunktiv Pr‰teritum Plural 2
+24 Konjunktiv Pr‰teritum Plural 3
+25 Imperativ Pr‰sens vertr. Singular 2
+26 Imperativ Pr‰sens vertr. Plural 1
+27 Imperativ Pr‰sens vertr. Plural 2
+28 Imperativ Pr‰sens dist. Singular 2
+29 Partizip 1
+30 Partizip 2
+
+Adj nach definitem Artikel
+class nom gen dat akk nom gen dat akk
+m     e   en  en  en  en  en  en  en
+f     e   en  en  e   en  en  en  en
+n     e   en  en  e   en  en  en  en
+
+Adj nach indefinitem Artikel
+class nom gen dat akk nom gen dat akk
+m     er  en  en  en  e   en  en  e
+f     e   en  en  e   e   en  en  e
+n     es  en  en  es  e   en  en  e
+
+Adj nach Nullartikel
+class nom gen dat akk nom gen dat akk
+m     er  en  em  en  e   er  en  e
+f     e   er  er  e   e   er  en  e
+n     es  en  em  es  e   er  en  e
+
+Artikel
+class nom gen dat akk nom gen dat akk
+m     der des dem den die der den die
+f     die der der die die der der die
+n     das des dem das die der den die

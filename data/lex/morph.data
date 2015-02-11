@@ -1,0 +1,327 @@
+table
+0 Singular Nominativ
+1 Singular Genitiv
+2 Singular Dativ
+3 Singular Akkusativ
+4 Plural Nominativ
+5 Plural Genitiv
+6 Plural Dativ
+7 Plural Akkusativ
+      0   1       2       3       4       5       6       7
+m1    0   [e]s    [e]     0       e       e       en      e
+m1z   0   es      e       0       e       e       en      e
+m1a   0   [e]s    [e]     0       "e      "e      "en     "e
+m1az  0   es      e       0       "e      "e      "en     "e
+m2    0   ses     [se]    0       se      se      sen     se
+m3    0   [e]s    [e]     0       er      er      ern     er
+m3z   0   es      e       0       er      er      ern     er
+m3a   0   [e]s    [e]     0       "er     "er     "ern    "er
+m3az  0   es      e       0       "er     "er     "ern    "er
+m4    0   s       0       0       0       0       n       0
+m4n   0   s       0       0       0       0       0       0
+m4a   0   s       0       0       "       "       "n      "
+m4an  0   s       0       0       "       "       "       "
+m5    0   s       0       0       s       s       s       s
+m6    [r] n       n       n       n       n       n       n
+m7    0   ns      n       n       n       n       n       n
+m8    0   en      en      en      en      en      en      en
+m9    0   [e]s    [e]     0       en      en      en      en
+m9z   0   es      e       0       en      en      en      en
+m10   0   s       0       0       n       n       n       n
+m11   us  us      us      us      en      en      en      en
+f12   0   0       0       0       e       e       en      e
+f12a  0   0       0       0       "e      "e      "en     "e
+f13   0   0       0       0       se      se      sen     se
+f14   0   0       0       0       "       "       "n      "
+f15   0   0       0       0       s       s       s       s
+f15a  a   a       a       a       en      en      en      en
+f16   0   0       0       0       n       n       n       n
+f17   0   0       0       0       en      en      en      en
+f18   0   0       0       0       nen     nen     nen     nen
+f19   0   n       n       0       n       n       n       n
+n20   0   [e]s    [e]     0       e       e       en      e
+n20z  0   es      e       0       e       e       en      e
+n20a  0   es      [e]     0       "e      "e      "en     "e
+n21   0   [e]s    [e]     0       er      er      ern     er
+n21z  0   es      e       0       er      er      ern     er
+n21a  0   [e]s    [e]     0       "er     "er     "ern    "er
+n21az 0   es      e       0       "er     "er     "ern    "er
+n22   0   s       0       0       0       0       n       0
+n22n  0   s       0       0       0       0       0       0
+n22a  0   s       0       0       "       "       "n      "
+n22an 0   s       0       0       "       "       "       "
+n23   0   s       0       0       s       s       s       s
+n24   0   [e]s    [e]     0       en      en      en      en
+n24z  0   es      e       0       en      en      en      en
+n25   [s] n       n       0       n       n       n       n
+n26   0   ses     [se]    0       se      se      sen     se
+n27   um  ums     um      um      en      en      en      en
+n28   a   as      a       a       en      en      en      en
+n29   um  ums     um      um      a       a       a       a
+n30   0   s       0       0       n       n       n       n
+n31   0   [e]s    0       0       ien     ien     ien     ien
+
+
+
+table
+0 Infinitiv
+1 Indikativ Präsens Singular 1
+2 Indikativ Präsens Singular 2
+3 Indikativ Präsens Singular 3
+4 Indikativ Präsens Plural 1
+5 Indikativ Präsens Plural 2
+6 Indikativ Präsens Plural 3
+7 Konjunktiv Präsens Singular 1
+8 Konjunktiv Präsens Singular 2
+9 Konjunktiv Präsens Singular 3
+10 Konjunktiv Präsens Plural 1
+11 Konjunktiv Präsens Plural 2
+12 Konjunktiv Präsens Plural 3
+13 Indikativ Präteritum Singular 1
+14 Indikativ Präteritum Singular 2
+15 Indikativ Präteritum Singular 3
+16 Indikativ Präteritum Plural 1
+17 Indikativ Präteritum Plural 2
+18 Indikativ Präteritum Plural 3
+19 Konjunktiv Präteritum Singular 1
+20 Konjunktiv Präteritum Singular 2
+21 Konjunktiv Präteritum Singular 3
+22 Konjunktiv Präteritum Plural 1
+23 Konjunktiv Präteritum Plural 2
+24 Konjunktiv Präteritum Plural 3
+25 Imperativ Präsens vertr. Singular 2
+26 Imperativ Präsens vertr. Plural 1
+27 Imperativ Präsens vertr. Plural 2
+28 Imperativ Präsens dist. Singular 2
+29 Partizip1
+30 Partizip2
+      0   1   2    3   4   5   6   7     8     9     10  11   12   13   14     15   16    17    18    19   20     21   22    23    24    25    26  27  28  29   30
+v1    en  e   st   t   en  t   en  e     est   e     en  et   en   te   test   te   ten   tet   ten   te   test   te   ten   tet   ten   [e]   en  t   en  end  #t
+v2    en  e   est  et  en  et  en  e     est   e     en  et   en   ete  etest  ete  eten  etet  eten  ete  etest  ete  eten  etet  eten  [e]   en  et  en  end  #et
+v3    en  e   t    t   en  t   en  e     est   e     en  et   en   ete  etest  ete  eten  etet  eten  ete  etest  ete  eten  etet  eten  [e]   en  et  en  end  #t
+v4    eln le  elst elt eln elt eln le    lest  le    eln let  eln  elte eltest elte elten eltet elten elte eltest elte elten eltet elten le    eln elt eln elnd #elt
+v5    ern ere erst ert ern ert ern [e]re erest [e]re ern eret ern  erte ertest erte erten ertet erten erte ertest erte erten ertet erten [e]re ern ert ert ernd #ert
+
+
+table
+0 definit M Positiv Singular Nominativ
+1 definit M Positiv Singular Genitiv
+2 definit M Positiv Singular Dativ
+3 definit M Positiv Singular Akkusativ
+4 definit M Positiv Plural Nominativ
+5 definit M Positiv Plural Genitiv
+6 definit M Positiv Plural Dativ
+7 definit M Positiv Plural Akkusativ
+8 indefinit M Positiv Singular Nominativ
+9 indefinit M Positiv Singular Genitiv
+10 indefinit M Positiv Singular Dativ
+11 indefinit M Positiv Singular Akkusativ
+12 indefinit M Positiv Plural Nominativ
+13 indefinit M Positiv Plural Genitiv
+14 indefinit M Positiv Plural Dativ
+15 indefinit M Positiv Plural Akkusativ
+16 Null M Positiv Singular Nominativ
+17 Null M Positiv Singular Genitiv
+18 Null M Positiv Singular Dativ
+19 Null M Positiv Singular Akkusativ
+20 Null M Positiv Plural Nominativ
+21 Null M Positiv Plural Genitiv
+22 Null M Positiv Plural Dativ
+23 Null M Positiv Plural Akkusativ
+24 definit M Komperativ Singular Nominativ
+25 definit M Komperativ Singular Genitiv
+26 definit M Komperativ Singular Dativ
+27 definit M Komperativ Singular Akkusativ
+28 definit M Komperativ Plural Nominativ
+29 definit M Komperativ Plural Genitiv
+30 definit M Komperativ Plural Dativ
+31 definit M Komperativ Plural Akkusativ
+32 indefinit M Komperativ Singular Nominativ
+33 indefinit M Komperativ Singular Genitiv
+34 indefinit M Komperativ Singular Dativ
+35 indefinit M Komperativ Singular Akkusativ
+36 indefinit M Komperativ Plural Nominativ
+37 indefinit M Komperativ Plural Genitiv
+38 indefinit M Komperativ Plural Dativ
+39 indefinit M Komperativ Plural Akkusativ
+40 Null M Komperativ Singular Nominativ
+41 Null M Komperativ Singular Genitiv
+42 Null M Komperativ Singular Dativ
+43 Null M Komperativ Singular Akkusativ
+44 Null M Komperativ Plural Nominativ
+45 Null M Komperativ Plural Genitiv
+46 Null M Komperativ Plural Dativ
+47 Null M Komperativ Plural Akkusativ
+48 definit M Superlativ Singular Nominativ
+49 definit M Superlativ Singular Genitiv
+50 definit M Superlativ Singular Dativ
+51 definit M Superlativ Singular Akkusativ
+52 definit M Superlativ Plural Nominativ
+53 definit M Superlativ Plural Genitiv
+54 definit M Superlativ Plural Dativ
+55 definit M Superlativ Plural Akkusativ
+56 indefinit M Superlativ Singular Nominativ
+57 indefinit M Superlativ Singular Genitiv
+58 indefinit M Superlativ Singular Dativ
+59 indefinit M Superlativ Singular Akkusativ
+60 indefinit M Superlativ Plural Nominativ
+61 indefinit M Superlativ Plural Genitiv
+62 indefinit M Superlativ Plural Dativ
+63 indefinit M Superlativ Plural Akkusativ
+64 Null M Superlativ Singular Nominativ
+65 Null M Superlativ Singular Genitiv
+66 Null M Superlativ Singular Dativ
+67 Null M Superlativ Singular Akkusativ
+68 Null M Superlativ Plural Nominativ
+69 Null M Superlativ Plural Genitiv
+70 Null M Superlativ Plural Dativ
+71 Null M Superlativ Plural Akkusativ
+72 definit F Positiv Singular Nominativ
+73 definit F Positiv Singular Genitiv
+74 definit F Positiv Singular Dativ
+75 definit F Positiv Singular Akkusativ
+76 definit F Positiv Plural Nominativ
+77 definit F Positiv Plural Genitiv
+78 definit F Positiv Plural Dativ
+79 definit F Positiv Plural Akkusativ
+80 indefinit F Positiv Singular Nominativ
+81 indefinit F Positiv Singular Genitiv
+82 indefinit F Positiv Singular Dativ
+83 indefinit F Positiv Singular Akkusativ
+84 indefinit F Positiv Plural Nominativ
+85 indefinit F Positiv Plural Genitiv
+86 indefinit F Positiv Plural Dativ
+87 indefinit F Positiv Plural Akkusativ
+88 Null F Positiv Singular Nominativ
+89 Null F Positiv Singular Genitiv
+90 Null F Positiv Singular Dativ
+91 Null F Positiv Singular Akkusativ
+92 Null F Positiv Plural Nominativ
+93 Null F Positiv Plural Genitiv
+94 Null F Positiv Plural Dativ
+95 Null F Positiv Plural Akkusativ
+96 definit F Komperativ Singular Nominativ
+97 definit F Komperativ Singular Genitiv
+98 definit F Komperativ Singular Dativ
+99 definit F Komperativ Singular Akkusativ
+100 definit F Komperativ Plural Nominativ
+101 definit F Komperativ Plural Genitiv
+102 definit F Komperativ Plural Dativ
+103 definit F Komperativ Plural Akkusativ
+104 indefinit F Komperativ Singular Nominativ
+105 indefinit F Komperativ Singular Genitiv
+106 indefinit F Komperativ Singular Dativ
+107 indefinit F Komperativ Singular Akkusativ
+108 indefinit F Komperativ Plural Nominativ
+109 indefinit F Komperativ Plural Genitiv
+110 indefinit F Komperativ Plural Dativ
+111 indefinit F Komperativ Plural Akkusativ
+112 Null F Komperativ Singular Nominativ
+113 Null F Komperativ Singular Genitiv
+114 Null F Komperativ Singular Dativ
+115 Null F Komperativ Singular Akkusativ
+116 Null F Komperativ Plural Nominativ
+117 Null F Komperativ Plural Genitiv
+118 Null F Komperativ Plural Dativ
+119 Null F Komperativ Plural Akkusativ
+120 definit F Superlativ Singular Nominativ
+121 definit F Superlativ Singular Genitiv
+122 definit F Superlativ Singular Dativ
+123 definit F Superlativ Singular Akkusativ
+124 definit F Superlativ Plural Nominativ
+125 definit F Superlativ Plural Genitiv
+126 definit F Superlativ Plural Dativ
+127 definit F Superlativ Plural Akkusativ
+128 indefinit F Superlativ Singular Nominativ
+129 indefinit F Superlativ Singular Genitiv
+130 indefinit F Superlativ Singular Dativ
+131 indefinit F Superlativ Singular Akkusativ
+132 indefinit F Superlativ Plural Nominativ
+133 indefinit F Superlativ Plural Genitiv
+134 indefinit F Superlativ Plural Dativ
+135 indefinit F Superlativ Plural Akkusativ
+136 Null F Superlativ Singular Nominativ
+137 Null F Superlativ Singular Genitiv
+138 Null F Superlativ Singular Dativ
+139 Null F Superlativ Singular Akkusativ
+140 Null F Superlativ Plural Nominativ
+141 Null F Superlativ Plural Genitiv
+142 Null F Superlativ Plural Dativ
+143 Null F Superlativ Plural Akkusativ
+144 definit N Positiv Singular Nominativ
+145 definit N Positiv Singular Genitiv
+146 definit N Positiv Singular Dativ
+147 definit N Positiv Singular Akkusativ
+148 definit N Positiv Plural Nominativ
+149 definit N Positiv Plural Genitiv
+150 definit N Positiv Plural Dativ
+151 definit N Positiv Plural Akkusativ
+152 indefinit N Positiv Singular Nominativ
+153 indefinit N Positiv Singular Genitiv
+154 indefinit N Positiv Singular Dativ
+155 indefinit N Positiv Singular Akkusativ
+156 indefinit N Positiv Plural Nominativ
+157 indefinit N Positiv Plural Genitiv
+158 indefinit N Positiv Plural Dativ
+159 indefinit N Positiv Plural Akkusativ
+160 Null N Positiv Singular Nominativ
+161 Null N Positiv Singular Genitiv
+162 Null N Positiv Singular Dativ
+163 Null N Positiv Singular Akkusativ
+164 Null N Positiv Plural Nominativ
+165 Null N Positiv Plural Genitiv
+166 Null N Positiv Plural Dativ
+167 Null N Positiv Plural Akkusativ
+168 definit N Komperativ Singular Nominativ
+169 definit N Komperativ Singular Genitiv
+170 definit N Komperativ Singular Dativ
+171 definit N Komperativ Singular Akkusativ
+172 definit N Komperativ Plural Nominativ
+173 definit N Komperativ Plural Genitiv
+174 definit N Komperativ Plural Dativ
+175 definit N Komperativ Plural Akkusativ
+176 indefinit N Komperativ Singular Nominativ
+177 indefinit N Komperativ Singular Genitiv
+178 indefinit N Komperativ Singular Dativ
+179 indefinit N Komperativ Singular Akkusativ
+180 indefinit N Komperativ Plural Nominativ
+181 indefinit N Komperativ Plural Genitiv
+182 indefinit N Komperativ Plural Dativ
+183 indefinit N Komperativ Plural Akkusativ
+184 Null N Komperativ Singular Nominativ
+185 Null N Komperativ Singular Genitiv
+186 Null N Komperativ Singular Dativ
+187 Null N Komperativ Singular Akkusativ
+188 Null N Komperativ Plural Nominativ
+189 Null N Komperativ Plural Genitiv
+190 Null N Komperativ Plural Dativ
+191 Null N Komperativ Plural Akkusativ
+192 definit N Superlativ Singular Nominativ
+193 definit N Superlativ Singular Genitiv
+194 definit N Superlativ Singular Dativ
+195 definit N Superlativ Singular Akkusativ
+196 definit N Superlativ Plural Nominativ
+197 definit N Superlativ Plural Genitiv
+198 definit N Superlativ Plural Dativ
+199 definit N Superlativ Plural Akkusativ
+200 indefinit N Superlativ Singular Nominativ
+201 indefinit N Superlativ Singular Genitiv
+202 indefinit N Superlativ Singular Dativ
+203 indefinit N Superlativ Singular Akkusativ
+204 indefinit N Superlativ Plural Nominativ
+205 indefinit N Superlativ Plural Genitiv
+206 indefinit N Superlativ Plural Dativ
+207 indefinit N Superlativ Plural Akkusativ
+208 Null N Superlativ Singular Nominativ
+209 Null N Superlativ Singular Genitiv
+210 Null N Superlativ Singular Dativ
+211 Null N Superlativ Singular Akkusativ
+212 Null N Superlativ Plural Nominativ
+213 Null N Superlativ Plural Genitiv
+214 Null N Superlativ Plural Dativ
+215 Null N Superlativ Plural Akkusativ
+    0 1  2  3  4  5  6  7  8  9  10 11 12 13 14 15 16 17 18 19 20 21 22 23 24   25    26    27    28    29    30    31    32    33    34    35    36   37    38    39   40    41    42    43    44   45    46    47   48   49    50    51    52    53    54    55    56    57    58    59    60   61    62    63   64    65    66    67    68   69    70    71   72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96  97   98   99  100  101  102  103  104 105  106  107 108 109  110  111 112 113  114  115 116 117  118  119 120 121  122  123 124  125  126  127  128 129  130  131 132 133  134  135 136 137  138  139 140 141  142  143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169  170  171 172  173  174  175  176  177  178  179  180 181  182  183 184  185  186  187  188 189  190  191 192 193  194  195 196  197  198  199  200 201  202  203 204 205  206  207 208 209  210  211 212 213  214  215 
+a1  e en en en en en en en er en en en e  en en e  er en em en e  er en e  ere  eren  eren  eren  eren  eren  eren  eren  erer  eren  eren  eren  ere  eren  eren  ere  erer  eren  erem  eren  ere  erer  eren  ere  ste  sten  sten  sten  sten  sten  sten  sten  ster  sten  sten  sten  ste  sten  sten  ste  ster  sten  stem  sten  ste  ster  sten  ste  e  en en e  en en en en e  en en e  e  en en e  e  er er e  e  er en e  ere eren eren ere eren eren eren eren ere eren eren ere ere eren eren ere ere erer erer ere ere erer eren ere ste sten sten ste sten sten sten sten ste sten sten ste ste sten sten ste ste ster ster ste ste ster sten ste e   en  en   e  en  en  en  en  es  en  en  es  e   en  en  e   es  en  em  es  e   er  en  e   ere eren eren ere eren eren eren eren eres eren eren eres ere eren eren ere eres eren erem eres ere erer eren ere ste sten sten ste sten sten sten sten ste sten sten ste ste sten sten ste ste ster ster ste ste ster sten ste
+a1a e en en en en en en en er en en en e  en en e  er en em en e  er en e  "ere "eren "eren "eren "eren "eren "eren "eren "erer "eren "eren "eren "ere "eren "eren "ere "erer "eren "erem "eren "ere "erer "eren "ere "ste "sten "sten "sten "sten "sten "sten "sten "ster "sten "sten "sten "ste "sten "sten "ste "ster "sten "stem "sten "ste "ster "sten "ste e  en en e  en en en en e  en en e  e  en en e  e  er er e  e  er en e  ere eren eren ere eren eren eren eren ere eren eren ere ere eren eren ere ere erer erer ere ere erer eren ere ste sten sten ste sten sten sten sten ste sten sten ste ste sten sten ste ste ster ster ste ste ster sten ste e   en  en   e  en  en  en  en  es  en  en  es  e   en  en  e   es  en  em  es  e   er  en  e   ere eren eren ere eren eren eren eren eres eren eren eres ere eren eren ere eres eren erem eres ere erer eren ere ste sten sten ste sten sten sten sten ste sten sten ste ste sten sten ste ste ster ster ste ste ster sten ste
+
+

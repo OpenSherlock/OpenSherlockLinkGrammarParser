@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!-- JSONDocStore properties
+	-->
+
+<properties>
+
+	<parameter name="BasePath" value = "data/link/" />
+	<!-- Dictionary path -->
+	<parameter name="DictionaryPath" value="data/link/4.0.dict" /> 
+	
+	<!-- Knowledge path -->
+	<parameter name="KnowledgePath" value="data/link/4.0.knowledge" /> 
+	
+	<!-- ConsitutentKnowledge path -->
+	<parameter name="ConstituentKnowledgePath" value = "data/link/4.0.constituent-knowledge" />
+	
+	<!--  Affix path -->
+	<parameter name="AffixPath" value = "data/link/4.0.affix" />
+
+</properties>
+
